@@ -81,14 +81,17 @@ h1{
 
 .form{
 	width: 60%;
-	padding: 0 20%;
+	padding: 77px;
 	margin: 40px 0 0 0;
+	margin-top: 20px;
+
 }
 
 .form p{
 	font-size: 20px;
 	color: #666;
 	font-weight: 500;
+
 }
 
 .field input{
